@@ -3,6 +3,7 @@ h2,
 p,
 li {
   color: rgb(231, 40, 40);
+  text-align: center;
 }
 body {
   background-color: rgb(31, 48, 48);
