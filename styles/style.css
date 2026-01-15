@@ -4,6 +4,7 @@ p,
 li {
   color: rgb(231, 40, 40);
   text-align: center;
+  list-style-type: none;
 }
 body {
   background-color: rgb(31, 48, 48);
